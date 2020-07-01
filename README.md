@@ -7,7 +7,6 @@ Image compression application with the lossy vector quantization (VQ) data compr
 * [General Info](#general-info)
 * [Graphical User Interface](#graphical-user-interface)
 * [Results](#results)
-* [Features](#features)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Sources](#sources)
